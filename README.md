@@ -1,5 +1,13 @@
 # Calculator Mobile app development
-Android calculator for Mobile app development course
+
+This Android calculator app was developed for the Mobile app development course. It demonstrates basic arithmetic operations and user interface design in Android.
+
+## Features
+- Addition, subtraction, multiplication, and division operations
+- Clear function to reset calculations
+- Responsive layout for various screen sizes
+
+## Screenshots
 
 | Screenshot 1 | Screenshot 2 |
 |:------------:|:------------:|
@@ -9,4 +17,14 @@ Android calculator for Mobile app development course
 
 | Screenshot 5 |
 |:------------:|
-| <img src="https://github.com/user-attachments/assets/efd17b45-0ffd-462b-be3b-526fc01b402a" width="400" alt="Calculator Screenshot 5"> |
+| <img src="https://github.com/user-attachments/assets/efd17b45-0ffd-462b-be3b-526fc01b402a"  alt="Calculator Screenshot 5"> |
+
+## How to Use
+1. Enter the first number using the number pad
+2. Select an operation (+, -, *, /)
+3. Enter the second number
+4. Press '=' to see the result
+5. Use 'C' to clear and start a new calculation
+
+## Development
+This app was developed using Android Studio and Java, implementing OOPS concepts for easy extendability.
